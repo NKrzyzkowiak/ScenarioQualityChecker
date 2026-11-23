@@ -58,4 +58,4 @@ Aplikacja będzie udostępniać wszystkie zaimplementowane funkcje poprzez zdaln
 - **Wyjście:** wyniki analizy i operacji zwracane w formacie **JSON**.
 
 > Szczegółowa specyfikacja schematu JSON oraz lista endpointów zostaną uzupełnione po implementacji modelu obiektowego i API.
-```
+
